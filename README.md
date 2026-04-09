@@ -1,4 +1,4 @@
-# Hi! , I'm Swasthik Yesh
+# I'm Swasthik Yesh
 
 ### A Developer on a continuous journey of learning, building and mastering modern technologies.
 
