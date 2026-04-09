@@ -2,10 +2,6 @@
 
 ### A Developer on a continuous journey of learning, building and mastering modern technologies.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syesh&label=Profile views&color=0e75b6&style=flat" alt="syesh" /> </p>
-
-- 👨‍💻 All of my projects are available at **[https://swasthikyesh.in/](https://swasthikyesh.in/)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/syesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="syesh" height="30" width="40" /></a>
