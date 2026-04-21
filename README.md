@@ -13,7 +13,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="10" height="10"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="10" height="10"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
@@ -32,7 +31,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/></a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=streamlit" alt="streamlit" width="40" height="40"/></a>
-</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syesh&" alt="syesh" /></p>
 
